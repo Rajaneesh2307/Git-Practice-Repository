@@ -4,8 +4,8 @@ public class StudentInfo {
         System.out.println("        Student Information System     ");
         System.out.println("======================================");
         System.out.println("Name        : Raj Kumar");
-        System.out.println("Roll No     : 102");
-        System.out.println("Age         : 22");
+        System.out.println("Roll No     : 1");
+        System.out.println("Age         : 25");
         System.out.println("Course      : AWS Cloud Engineering");
         System.out.println("Department  : Computer Science");
         System.out.println("College     : ABC Institute of Technology");
