@@ -11,7 +11,7 @@ public class StudentInfo {
         System.out.println("College     : Madanapalle Institute of Technology and Sciences");
         System.out.println("Email       : rajaneesh161@gmail.com");
         System.out.println("Phone       : +91-9908275985");
-        System.out.println("Address     : Hyderabad, Telangana");
+        System.out.println("Address     : Madanapalle, Andhrapradesh");
         System.out.println("--------------------------------------");
         System.out.println("Subjects Enrolled:");
         System.out.println("  1. Cloud Computing Basics");
@@ -23,7 +23,7 @@ public class StudentInfo {
         System.out.println("  8. Artifactory Storage Tool");
         System.out.println("  9. Continues Code Quality Check and Security Analysis Tool");
         System.out.println("--------------------------------------");
-        System.out.println("Total Credits : 100");
+        System.out.println("Total Credits : 60");
         System.out.println("Semester      : 8th");
         System.out.println("======================================");
     }
