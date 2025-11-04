@@ -22,6 +22,7 @@ public class StudentInfo {
         System.out.println("  6. Build Automation Tool");
         System.out.println("  8. Artifactory Storage Tool");
         System.out.println("  9. Continues Code Quality Check and Security Analysis Tool");
+	System.out.println(" 10. CI/CD Automation Tool");
         System.out.println("--------------------------------------");
         System.out.println("Total Credits : 60");
         System.out.println("Semester      : 8th");
