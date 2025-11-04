@@ -19,9 +19,12 @@ public class StudentInfo {
         System.out.println("  3. DevOps & CI/CD Pipelines");
         System.out.println("  4. Infrastructure as Code (IaC)");
         System.out.println("  5. Monitoring & Automation");
+        System.out.println("  6. Build Automation Tool");
+        System.out.println("  8. Artifactory Storage Tool");
+        System.out.println("  9. Continues Code Quality Check and Security Analysis Tool");
         System.out.println("--------------------------------------");
-        System.out.println("Total Credits : 20");
-        System.out.println("Semester      : 6th");
+        System.out.println("Total Credits : 100");
+        System.out.println("Semester      : 8th");
         System.out.println("======================================");
     }
 }
