@@ -13,7 +13,7 @@ public class StudentInfo {
         System.out.println("Phone       : +91-9908275985");
         System.out.println("Address     : Madanapalle, Andhrapradesh");
         System.out.println("--------------------------------------");
-        System.out.println("Subjects Enrolled:");
+        System.out.println("Subjects Enrolled for DevOps Engineer:");
         System.out.println("  1. Cloud Computing Basics");
         System.out.println("  2. AWS Core Services");
         System.out.println("  3. DevOps & CI/CD Pipelines");
