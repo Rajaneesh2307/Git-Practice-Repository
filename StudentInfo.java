@@ -17,7 +17,7 @@ public class StudentInfo {
         System.out.println("  1. Cloud Computing Basics");
         System.out.println("  2. AWS Core Services");
         System.out.println("  3. DevOps & CI/CD Pipelines");
-        System.out.println("  4. Infrastructure as Code (IaC)");
+        System.out.println("  4. Infrastructure as Code we have two options one is CloudFormation and another one is Terraform");
         System.out.println("  5. Monitoring & Automation");
         System.out.println("  6. Build Automation Tool");
         System.out.println("  8. Artifactory Storage Tool");
