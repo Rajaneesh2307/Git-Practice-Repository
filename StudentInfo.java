@@ -1,7 +1,7 @@
 public class StudentInfo {
     public static void main(String[] args) {
         System.out.println("======================================");
-        System.out.println("        Employee Information System    ");
+        System.out.println("        Student Information System    ");
         System.out.println("======================================");
         System.out.println("Name        : Rajaneesh Yembuluru");
         System.out.println("Roll No     : 07");
