@@ -19,9 +19,9 @@ public class StudentInfo {
         System.out.println("  3. DevOps & CI/CD Pipelines");
         System.out.println("  4. Infrastructure as Code we have two options one is CloudFormation and another one is Terraform");
         System.out.println("  5. Monitoring & Automation");
-        System.out.println("  6. Build Automation Tool");
-        System.out.println("  8. Artifactory Storage Tool");
-        System.out.println("  9. Continues Code Quality Check and Security Analysis Tool");
+        System.out.println("  6. Build Automation Tool Maven");
+        System.out.println("  8. Artifactory Storage Tool Nexus");
+        System.out.println("  9. Continues Code Quality Check and Security Analysis Tool SonarQube");
 	System.out.println(" 10. CI/CD Automation Tool we have two options one is Jenkins and another one is AWSCodePipeline");
         System.out.println("--------------------------------------");
         System.out.println("Total Credits : 60");
