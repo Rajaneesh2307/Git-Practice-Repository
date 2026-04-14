@@ -3,7 +3,7 @@ public class StudentInfo {
         System.out.println("======================================");
         System.out.println("        Student Information System    ");
         System.out.println("======================================");
-        System.out.println("Name        : Rajaneesh Yembuluru");
+        System.out.println("Name        : Yembuluru Venkata Rajaneesh Babu");
         System.out.println("Roll No     : 07");
         System.out.println("Age         : 25");
         System.out.println("Course      : DevOps Engineer");
