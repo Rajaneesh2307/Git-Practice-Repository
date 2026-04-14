@@ -7,7 +7,7 @@ public class StudentInfo {
         System.out.println("Roll No     : 07");
         System.out.println("Age         : 25");
         System.out.println("Course      : DevOps Engineer");
-        System.out.println("Department  : Computer Science");
+        System.out.println("Department  : Computer Science and Information Technology");
         System.out.println("College     : Madanapalle Institute of Technology and Sciences");
         System.out.println("Email       : rajaneesh161@gmail.com");
         System.out.println("Phone       : +91-9908275985");
